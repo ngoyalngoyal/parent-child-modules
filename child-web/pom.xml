@@ -5,11 +5,11 @@
   <parent>
     <artifactId>parent</artifactId>
     <groupId>com.ngoyal</groupId>
-    <version>1.0.SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
   </parent>
   <groupId>com.ngoyal</groupId>
   <artifactId>child-web</artifactId>
-  <version>1.0.SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>child-web Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -19,7 +19,7 @@
   	<dependency>
       <groupId>com.ngoyal</groupId>
       <artifactId>child-core</artifactId>
-      <version>1.0.SNAPSHOT</version>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
     
     <dependency>
